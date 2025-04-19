@@ -7,6 +7,9 @@
 - Pinecone / langchain / llamaindex
 - 실제 서비스 구현
 
+
 ### 저자
 - 곽기은
 - 한두솔
+
+- muaddib0
